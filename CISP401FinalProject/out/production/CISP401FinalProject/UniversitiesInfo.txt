@@ -1,0 +1,10 @@
+Yale - 3.9
+Harvard - 3.9
+UC Davis - 3.5
+Princeton - 3.8
+UC Berkeley - 3.8
+UC Los Angeles - 3.7
+Cornell - 3.7
+Brown - 3.8
+University of Pennsylvania - 3.8
+CSU Sacramento - 2.0
