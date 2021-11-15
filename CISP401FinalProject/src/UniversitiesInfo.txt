@@ -1,0 +1,19 @@
+GPA out of 4.0 -> more than 4.0 is rounded down to 4.0
+Yale - 4.0
+Harvard - 4.0
+UC Davis - 4.0
+Princeton - 4.0
+UC Berkeley - 3.9
+UC Los Angeles - 3.9
+Cornell - 4.0
+Brown - 4.0
+University of Pennsylvania - 4.0
+Columbia - 4.0
+CSU Sacramento - 3.0
+UC San Diego - 4.0
+UC Santa Barbara - 4.0
+UC Irvine - 4.0
+UC Santa Cruz - 3.6
+UC Merced - 3.6
+UC Riverside - 3.8
+Dartmouth - 4.0
